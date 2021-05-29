@@ -1,35 +1,7 @@
 ## Corresponding Projects
 
-#### useState
+## use Effects
+this is a demonstration of a react-mini app which pulls all the select github users.
 
-1. Birthday Reminder
 
-#### useEffect and Conditional Rendering
-
-2. Tours
-3. Reviews
-4. Accordion
-5. Menu
-6. Tabs
-7. Slider
-
-#### Forms
-
-8. Lorem Ipsum Generator
-9. Color Shades Generator
-10. Grocery Bud
-
-#### useRef
-
-11. Navbar
-
-#### useContext
-
-12. Modal and Sidebar
-13. Stripe Menus
-
-#### useReducer and useContext
-
-14. Cart
-
-#### React Router
+![Screen Shot 2021-05-29 at 2 32 28 PM](https://user-images.githubusercontent.com/24447076/120081252-c2229c00-c08a-11eb-9dfc-cbecd8b53584.png)
